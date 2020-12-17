@@ -5,7 +5,7 @@ img{border:none;}
 #circlr #loader {background: url(../images/loader.gif) center center no-repeat;bottom: 0;display: none;left: 0;position: absolute;right: 0;top: 0;}
 .tax-padding{padding: 40px 10px 10px; background:url(../images/tax.png) no-repeat center 10px;}
 /*.tax-contianer{width: 450px; margin: 0 auto;}*/
-.tax-contianer{width: 1200px; margin: 0 auto;}
+.tax-contianer{width: 1000px; margin: 0 auto;}
 .tax-tools{clear: both; overflow: hidden; zoom:1; padding: 5px; text-align: center;}
 .tax-play,.tax-stop,.tax-zoom,.tax-daoshu{background: #dc0000; border: none; border-radius: 3px; height: 26px; width: 46px; text-align: center; overflow: hidden; font-size: 0; text-indent: -999px; line-height: 0; margin: 0 3px; padding: 0; vertical-align: middle;}
 .tax-daoshu{text-indent: 0; text-align: centerc; color: #fff; font-size: 12px; line-height: 26px; display: none;}
